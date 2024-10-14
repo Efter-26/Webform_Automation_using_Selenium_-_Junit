@@ -22,7 +22,6 @@ Both automations handle form field inputs, calendar date selection, and final su
 ## Prerequisites
 - **JDK Version**: 11
 - **IDE**: IntelliJ IDEA
-- **Build Tool**: Gradle
 - **DSL**: Groovy
 
 ## Project Setup
